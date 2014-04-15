@@ -1,6 +1,6 @@
-﻿namespace FizzBuzzKata
+﻿namespace FizzBuzz
 {
-    public class FizzBuzz
+    public class FizzBuzzer
     {
         public string Request(int number)
         {

@@ -65,9 +65,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FizzBuzzKata\FizzBuzzKata.csproj">
+    <ProjectReference Include="..\FizzBuzzKata\FizzBuzz.csproj">
       <Project>{9FF16C7A-552B-478A-93E8-74EF230FC876}</Project>
-      <Name>FizzBuzzKata %28FizzBuzzKata\FizzBuzzKata%29</Name>
+      <Name>FizzBuzz</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

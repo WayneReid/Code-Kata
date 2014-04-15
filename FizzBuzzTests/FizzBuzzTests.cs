@@ -1,4 +1,4 @@
-﻿using FizzBuzzKata;
+﻿using FizzBuzz;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using EasyAssertions;
 
@@ -10,7 +10,7 @@ namespace FizzBuzzTests
         [TestMethod]
         public void Request_NotDivisible_NullString()
         {
-            var sut = new FizzBuzz();
+            var sut = new FizzBuzzer();
 
             string result = sut.Request(7);
 
@@ -20,7 +20,7 @@ namespace FizzBuzzTests
         [TestMethod]
         public void Request_DivisibleBy3_Fizz()
         {
-            var sut = new FizzBuzz();
+            var sut = new FizzBuzzer();
 
             string result = sut.Request(3);
 
@@ -30,7 +30,7 @@ namespace FizzBuzzTests
         [TestMethod]
         public void Request_DivisibleBy5_Buzz()
         {
-            var sut = new FizzBuzz();
+            var sut = new FizzBuzzer();
 
             string result = sut.Request(5);
 
@@ -40,7 +40,7 @@ namespace FizzBuzzTests
         [TestMethod]
         public void Request_DivisibleBy3And5_FizzBuzz()
         {
-            var sut = new FizzBuzz();
+            var sut = new FizzBuzzer();
 
             string result = sut.Request(15);
 

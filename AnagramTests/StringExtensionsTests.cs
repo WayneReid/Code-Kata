@@ -21,7 +21,7 @@ namespace AnagramTests
         [TestMethod]
         public void SortLettersAscending_cat_act()
         {
-            string empty = "cat";
+            const string empty = "cat";
 
             string result = empty.SortLettersAscending();
 

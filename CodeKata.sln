@@ -5,19 +5,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzTests", "FizzBuzzTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzzKata\FizzBuzz.csproj", "{9FF16C7A-552B-478A-93E8-74EF230FC876}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FizzBuzzKata", "FizzBuzzKata", "{642803B0-B732-4E6A-9DEA-0FF65B31B181}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FizzBuzz", "FizzBuzz", "{642803B0-B732-4E6A-9DEA-0FF65B31B181}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PrimeFactorsKata", "PrimeFactorsKata", "{B8075CA3-4FFF-4769-A5EE-1FB498E03BB1}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PrimeFactors", "PrimeFactors", "{B8075CA3-4FFF-4769-A5EE-1FB498E03BB1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsTests", "PrimeFactorsTests\PrimeFactorsTests.csproj", "{1281FC66-9B8C-4A05-AD25-C14099B77C1E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactors", "PrimeFactors\PrimeFactors.csproj", "{0603D897-37FB-4A96-AB8D-C38E9B4ABE1C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AnagramKata", "AnagramKata", "{C9EB0517-2785-4E47-AF56-A15BF3ABE8DD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anagram", "Anagram", "{C9EB0517-2785-4E47-AF56-A15BF3ABE8DD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Anagram\Anagram.csproj", "{9C0D4B74-59B1-4C9D-8F37-418D58CC4035}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramTests", "AnagramTests\AnagramTests.csproj", "{397BE79D-C49A-402E-9442-F9383BB4A796}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LineSegmentIntersection", "LineSegmentIntersection", "{0DA9F75E-FA48-4BE1-8C56-9E6A6E9BE2B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

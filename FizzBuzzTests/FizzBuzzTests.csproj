@@ -67,7 +67,7 @@
   <ItemGroup>
     <ProjectReference Include="..\FizzBuzzKata\FizzBuzz.csproj">
       <Project>{9FF16C7A-552B-478A-93E8-74EF230FC876}</Project>
-      <Name>FizzBuzz</Name>
+      <Name>FizzBuzz %28FizzBuzz\FizzBuzz%29</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

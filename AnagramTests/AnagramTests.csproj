@@ -67,7 +67,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Anagram\Anagram.csproj">
       <Project>{9c0d4b74-59b1-4c9d-8f37-418d58cc4035}</Project>
-      <Name>Anagram</Name>
+      <Name>Anagram %28Anagram\Anagram%29</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

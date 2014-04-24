@@ -59,7 +59,7 @@
   <ItemGroup>
     <ProjectReference Include="..\PrimeFactors\PrimeFactors.csproj">
       <Project>{0603D897-37FB-4A96-AB8D-C38E9B4ABE1C}</Project>
-      <Name>PrimeFactors</Name>
+      <Name>PrimeFactors %28PrimeFactors\PrimeFactors%29</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

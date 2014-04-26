@@ -25,6 +25,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineIntersection", "LineInt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineIntersectionTests", "LineIntersectionTests\LineIntersectionTests.csproj", "{7357E9B6-BFF3-4366-98DD-D85BCE942C05}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RectangleIntersection", "RectangleIntersection", "{B1C5BCD9-DF05-415F-AD83-2DCA3C23002F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleIntersection", "Rectangle\RectangleIntersection.csproj", "{E5C316F9-3C43-4D22-ACDA-093D6D96ABDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleIntersectionTests", "RectangleTests\RectangleIntersectionTests.csproj", "{85AED6A8-68DF-4B4E-ADFE-D1650D19273A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +69,14 @@ Global
 		{7357E9B6-BFF3-4366-98DD-D85BCE942C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7357E9B6-BFF3-4366-98DD-D85BCE942C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7357E9B6-BFF3-4366-98DD-D85BCE942C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C316F9-3C43-4D22-ACDA-093D6D96ABDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C316F9-3C43-4D22-ACDA-093D6D96ABDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C316F9-3C43-4D22-ACDA-093D6D96ABDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C316F9-3C43-4D22-ACDA-093D6D96ABDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85AED6A8-68DF-4B4E-ADFE-D1650D19273A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AED6A8-68DF-4B4E-ADFE-D1650D19273A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AED6A8-68DF-4B4E-ADFE-D1650D19273A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AED6A8-68DF-4B4E-ADFE-D1650D19273A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,5 +90,7 @@ Global
 		{397BE79D-C49A-402E-9442-F9383BB4A796} = {C9EB0517-2785-4E47-AF56-A15BF3ABE8DD}
 		{FB8CC40E-2186-4808-8A73-2266E57075E5} = {0DA9F75E-FA48-4BE1-8C56-9E6A6E9BE2B3}
 		{7357E9B6-BFF3-4366-98DD-D85BCE942C05} = {0DA9F75E-FA48-4BE1-8C56-9E6A6E9BE2B3}
+		{E5C316F9-3C43-4D22-ACDA-093D6D96ABDB} = {B1C5BCD9-DF05-415F-AD83-2DCA3C23002F}
+		{85AED6A8-68DF-4B4E-ADFE-D1650D19273A} = {B1C5BCD9-DF05-415F-AD83-2DCA3C23002F}
 	EndGlobalSection
 EndGlobal
